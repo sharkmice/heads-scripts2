@@ -1,0 +1,39 @@
+AccessDir: Πεμ 02 Μάι 2019 05:14:25 μμ EEST
+Start of Parsing  Csv for import
+
+
+Check if the formdata0 is there
+
+
+Start of Parsing  Csv for form Data import
+
+
+End  of Parsing  Csv for form Data import
+
+
+Result file is /home/dev/scvparse/3/3_formdata6.csv
+
+
+
+
+Check if the studystatus0 is there
+
+
+Start of Parsing  Csv for Study Data import
+
+
+Result file is /home/dev/scvparse/3/3_formdata8.csv
+
+
+End  of Parsing  Csv for Study Status  Data import
+
+
+
+
+End  of Parsing  Csv for import
+
+
+Starting Actions to Import Patient 3 
+-----Start of Insert in Patients Table for  New patient-----
+-----Start of Insert Data in Form Data  Table for  New patient-----
+LeaveDir: Πεμ 02 Μάι 2019 05:14:25 μμ EEST
